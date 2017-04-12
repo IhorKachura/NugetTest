@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Neyber.Test.TestLib</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>ihor</authors>
+    <owners>ihor</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Awesome test nuget</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>nuget test</tags>
+  </metadata>
+</package>
