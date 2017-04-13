@@ -2,8 +2,8 @@
 <package >
   <metadata>
     <id>Neyber.Test.TestLib</id>
-    <version>$version$</version>
-    <title>$title$</title>
+    <version>2.0.0.0</version>
+    <title>TestLib</title>
     <authors>ihor</authors>
     <owners>ihor</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
